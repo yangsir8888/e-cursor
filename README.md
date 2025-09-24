@@ -142,7 +142,7 @@ E-Cursor 是一款专为 Cursor AI 编辑器设计的智能账号管理工具，
 
 **⭐ 如果这个项目对您有帮助，请给我们一个 Star！**
 
-[下载最新版本](https://github.com/yangsir8888/e-cursor/releases/) | [查看文档](docs/) | [反馈问题](https://github.com/yangsir8888/e-cursor/issues) | [加入QQ群]https://github.com/yangsir8888/e-cursor/blob/v1.0.0/assert/qq_qun.jpg)
+[下载最新版本](https://github.com/yangsir8888/e-cursor/releases/)  | [反馈问题](https://github.com/yangsir8888/e-cursor/issues))
 
 **让 Cursor 使用更简单，让开发更高效！**
 
