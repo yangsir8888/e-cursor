@@ -112,9 +112,13 @@ E-Cursor 是一款专为 Cursor AI 编辑器设计的智能账号管理工具，
 
 ### macOS 常见问题
 - **应用机器id补丁失败**：隐私与安全性需要开启
+
 <div align="center">
+
 ![常见错误](assert/mac/error.png)
-![解决方式](assert/mac/error.png)
+
+![解决方式](assert/mac/fix.png)
+
 </div>
 
 ### Linux 常见问题
@@ -135,7 +139,7 @@ E-Cursor 是一款专为 Cursor AI 编辑器设计的智能账号管理工具，
 *扫码加入QQ交流群*
 
 </div>
-### 常见问题
+### 功能常见问题
 
 1. **Q: 一键换号失败怎么办？**
    A: 检查 Cursor 是否正确安装，运行相应平台的修复脚本
