@@ -46,7 +46,7 @@ E-Cursor 是一款专为 Cursor AI 编辑器设计的智能账号管理工具，
 | 操作系统 | 支持状态 | 特殊说明 |
 |---------|---------|---------|
 | Windows 10/11 | ✅ 完全支持 | 推荐使用 |
-| macOS 10.15+ | 陆续支持| 无 |
+| macOS 10.15+ | ✅ 完全支持| 推荐使用 |
 | Linux (Ubuntu/Debian) | 陆续支持 | 无 |
 
 ## 🚀 快速开始
@@ -54,11 +54,12 @@ E-Cursor 是一款专为 Cursor AI 编辑器设计的智能账号管理工具，
 ### 下载安装
 
 1. **Windows 用户**
-   - 下载 `E-Cursor.exe`
-   - 双击运行即可，无需安装
+   - 下载 `E-Cursor-Windows-X64.zip`
+   - 解压双击运行即可，无需安装
 
 2. **macOS 用户**
-   - 暂不支持
+   - 下载 `E-Cursor-macOS-ARM64.zip`
+   - 解压双击运行即可，无需安装
 
 3. **Linux 用户**
    - 暂不支持
@@ -110,7 +111,11 @@ E-Cursor 是一款专为 Cursor AI 编辑器设计的智能账号管理工具，
 - **Cursor路径错误**：在设置中手动指定路径
 
 ### macOS 常见问题
-
+- **应用机器id补丁失败**：隐私与安全性需要开启
+<div align="center">
+![常见错误](assert/mac/error.png)
+![解决方式](assert/mac/error.png)
+</div>
 
 ### Linux 常见问题
 
